@@ -1,0 +1,6 @@
+@echo off
+"C:\Users\Public\Documents\ChargeBreakdownPipeline\CBfragments\CBfrag1_monthly\bin\Release\net8.0\win-x64\publish\CBfrag1_monthly.exe" > "C:\Users\Public\Documents\ChargeBreakdownPipeline\CBfragments\Fraglogs\Frag1monthlylog.log" 2>&1
+"C:\Users\Public\Documents\ChargeBreakdownPipeline\CBfragments\CBfrag2_monthly\bin\Release\net8.0\win-x64\publish\CBfrag2_monthly.exe" > "C:\Users\Public\Documents\ChargeBreakdownPipeline\CBfragments\Fraglogs\Frag2monthlylog.log" 2>&1
+"C:\Users\Public\Documents\ChargeBreakdownPipeline\CBfragments\CBfrag3_monthly\bin\Release\net8.0\win-x64\publish\CBfrag3_monthly.exe" > "C:\Users\Public\Documents\ChargeBreakdownPipeline\CBfragments\Fraglogs\Frag3monthlylog.log" 2>&1
+"C:\Users\Public\Documents\ChargeBreakdownPipeline\CBfragments\CBfrag4_monthly\bin\Release\net8.0\win-x64\publish\CBfrag4_monthly.exe" > "C:\Users\Public\Documents\ChargeBreakdownPipeline\CBfragments\Fraglogs\Frag4monthlylog.log" 2>&1
+"C:\Users\Public\Documents\ChargeBreakdownPipeline\CBfragments\CBfrag5_monthly\bin\Release\net8.0\win-x64\publish\CBfrag5_monthly.exe" > "C:\Users\Public\Documents\ChargeBreakdownPipeline\CBfragments\Fraglogs\Frag5monthlylog.log" 2>&1
